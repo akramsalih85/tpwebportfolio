@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+}
+body{
+    height: 100px;}
+nav{
+    display: flex;
+    justify-content: space-around;
+}
+li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
