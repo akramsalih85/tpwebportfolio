@@ -15,3 +15,14 @@ a{
     text-decoration: none;
     color : black;
 }
+
+@media (max-width: 500px) {
+  nav {
+    display: flex;
+    flex-direction: column;
+  }
+
+  section {
+    padding: 20px;
+  }
+}
